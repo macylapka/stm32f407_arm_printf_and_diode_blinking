@@ -1,4 +1,4 @@
-BINPATH=~/programs/gcc-arm-none-eabi/arm_none_eabi_4_9_2015q3/gcc-arm-none-eabi-4_9-2015q3/bin
+BINPATH=~/programs/gcc_arm_none_eabi/gcc-arm-none-eabi-5_4-2016q2/bin
 
 CC=$(BINPATH)/arm-none-eabi-gcc
 AR=$(BINPATH)/arm-none-eabi-ar
